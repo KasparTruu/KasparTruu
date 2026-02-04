@@ -45,9 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KasparTruu&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasparTruu&layout=compact&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KasparTruu&bg_color=0d1117&color=ffffff&line=5e8cff&point=ffffff&area=true&hide_border=true" />
-</p>
+  <br></p>
 
 ---
 
